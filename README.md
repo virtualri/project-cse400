@@ -70,20 +70,20 @@ Project complexity factor is *** very high ***
 
 # Calculated results
 
-|Title of the program	|LOC|
-|---||---:|
-|findingSponsor.py	|125|
-|Feed Forward Backpropagation Neural Network.py	|47|
-|Schedule of the project	|500|
-|Designing diagram	|109|    
-|Designing system view	|80|
-|  Total loc score in thousand	|0.861|
+|Title of the program	|LOC| Error or loss | 
+|---|---:|---:|
+|findingSponsor.py	|125| 0.17|
+|Feed_forward_Backpropagation-NeuralNetwork.ipynb	|47| Generation 10, population 50|
+|Schedule of the project	|500||
+|Designing diagram	|109|    |
+|Designing system view	|80||
+|  Total loc score in thousand	|0.861||
 
 
 ####Effort multiplier						
 
 |Cost driver	|very low 	|low	|normal	|high	|very high	|extra high|
-|---||---||---||---||---||---||---|
+|---|---|---|---|---|---|---|
 |product complexity (EAF)|	0.7	|0.85|	1	|1.15|	1.3|	1.65|
 
 
@@ -93,7 +93,7 @@ Project complexity factor is *** very high ***
 #### Intermediate model				
 
 |Category	|a<sub>b</sub>	|b<sub>b</sub>	|c<sub>b</sub>	|d<sub>b</sub>	|Effort	|Schedule|
-|---||---||---||---||---||---||---:|	
+|---|---|---|---|---|---:|---:|	
 |Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
 |Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
 |Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup> |
@@ -101,7 +101,7 @@ Project complexity factor is *** very high ***
 #### Organic			
 
 |Factors |Results | Measurement unit |
-|---||---||---:|
+|---|---|---:|
 |Effort	|3.55505758341727|	person per month|
 |Development time in months	|4.04819786729324	|months|
 |Labor rate	|20000	|BDT|
@@ -113,7 +113,7 @@ Project complexity factor is *** very high ***
 #### Semidetached	
 
 |Factors |Results | Measurement unit |
-|---||---||---:|
+|---|---|---:|
 |Effort	|3.298132785091	|person per month|
 |Development time in months	|3.79606689027965	|months|
 |Labor rate	|15000|BDT|	
@@ -123,7 +123,7 @@ Project complexity factor is *** very high ***
 			
 #### Embedded		
 |Factors |Results | Measurement unit |
-|---||---||---:|
+|---|---|---:|
 |Effort	|3.04162147204214	|person per month|
 |Development time in months	|3.5688941024344	|months|
 |Labor rate	|10000	|BDT|
