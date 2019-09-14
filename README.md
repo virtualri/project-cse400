@@ -94,9 +94,9 @@ Project complexity factor is ***very high***
 
 |Category	|a<sub>b</sub>	|b<sub>b</sub>	|c<sub>b</sub>	|d<sub>b</sub>	|Effort	|Schedule|
 |---|---|---|---|---|---:|---:|	
-|Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
-|Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
-|Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup> |
+|Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub></sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
+|Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub></sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
+|Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub></sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup> |
 
 #### Organic			
 
