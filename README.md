@@ -66,9 +66,9 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 ### Constructive Cost Model ( COCOMO ) intermediate model
 
 #### Project complexity
-Project complexity factor is *** very high ***
+Project complexity factor is ***very high***
 
-# Calculated results
+#### Calculated results
 
 |Title of the program	|LOC| Error or loss | 
 |---|---:|---:|
@@ -80,7 +80,7 @@ Project complexity factor is *** very high ***
 |  Total loc score in thousand	|0.861||
 
 
-####Effort multiplier						
+#### Effort multiplier						
 
 |Cost driver	|very low 	|low	|normal	|high	|very high	|extra high|
 |---|---|---|---|---|---|---|
@@ -94,9 +94,9 @@ Project complexity factor is *** very high ***
 
 |Category	|a<sub>b</sub>	|b<sub>b</sub>	|c<sub>b</sub>	|d<sub>b</sub>	|Effort	|Schedule|
 |---|---|---|---|---|---:|---:|	
-|Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
-|Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
-|Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup> |
+|Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
+|Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup>|
+|Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub></sup> |
 
 #### Organic			
 
@@ -199,5 +199,5 @@ publisher= "Pearson Education"
 |Wed Sep 11 05:54:57 BST 2019 	 |How it works: Distributed J2EE software development architecture along with N-tier MVC view|
 |Fri Sep 13 17:44:54 BST 2019 	 |Project cost, effort, and development time according to COCOMO Intermediate model|
 
-
+# Note
 > The contents are populated only for supervisor
