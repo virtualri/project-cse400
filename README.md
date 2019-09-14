@@ -57,14 +57,18 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 
 > Developing in JAVA EE, jscript, jsp, MySql Community Server, Apache Tomcat Server, github and project management and bug reporting tools
 
-![Java EE, Multitier](/images/Use-of-the-MVC-Design-Pattern-in-the-Java-EE-Platform-based-web-application-architecture.png)
+![Java EE, Multitier](/images/Use-of-the-MVC-Design-Pattern-in-the-Java-EE-Platform-based-web-application-architecre.png)
 
 
 ## Project cost
 
+
 ### Constructive Cost Model ( COCOMO ) intermediate model
 
-> Project complexity factor is *** very high ***
+#### Project complexity
+Project complexity factor is *** very high ***
+
+# Calculated results
 
 |Title of the program	|LOC|
 |---||---:|
