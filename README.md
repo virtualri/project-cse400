@@ -23,13 +23,14 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 
 ## Literacy and understanding under discussion and supervisor
 
+### System view: Logitcal and J2EE distributed multitier architecture 
 
-### System view: Logitcal and J2EE distributed-j2eetiers.gifController(MVC) N-tier architecture 
+#### Multitier: logical view
+![Logical View of the N-tier Architecture](/images/multitier-architecture.png)
 
-![Logical View of the N-tier Architecture](/images/Java Enterprise System Architecture.png)
+#### Multitier and Java EE
 
 ![J2EE Distributed Multitier architecture](/images/distributed-j2eetiers.png)
-
 
 ### Aerial view of the proposed system
 
@@ -56,11 +57,79 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 
 > Developing in JAVA EE, jscript, jsp, MySql Community Server, Apache Tomcat Server, github and project management and bug reporting tools
 
-![Java EE, Database and MVC 3 tier](/images/Use-of-the-MVC-Design-Pattern-in-the-Java-EE-Platform-based-web-application-architecture.png)
+![Java EE, Multitier](/images/Use-of-the-MVC-Design-Pattern-in-the-Java-EE-Platform-based-web-application-architecture.png)
 
 
+## Project cost
 
-## Reading list is larger than here
+### Constructive Cost Model ( COCOMO ) intermediate model
+
+> Project complexity factor is *** very high ***
+
+|Title of the program	|LOC|
+|---||---:|
+|findingSponsor.py	|125|
+|Feed Forward Backpropagation Neural Network.py	|47|
+|Schedule of the project	|500|
+|Designing diagram	|109|    
+|Designing system view	|80|
+|  ***Total loc score in thousand***	|0.861|
+
+
+####Effort multiplier						
+
+|Cost driver	|very low 	|low	|normal	|high	|very high	|extra high|
+|---||---||---||---||---||---||---|
+|product complexity (EAF)|	0.7	|0.85|	1	|1.15|	1.3|	1.65|
+
+
+#### Product complexity (EAF) is very high=1.3				
+
+
+#### Intermediate model				
+
+|Category	|a<sub>b</sub>	|b<sub>b</sub>	|c<sub>b</sub>	|d<sub>b</sub>	|Effort	|Schedule|
+|---||---||---||---||---||---||---|	
+|Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
+|Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
+|Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup> |
+
+#### Organic			
+
+|Factors |Results | Measurement unit |
+|---||---||---|
+|Effort	|3.55505758341727|	person per month|
+|	Development time in months	|4.04819786729324	|months|
+|Labor rate	|20000	|BDT|
+|Productivity	|242.190169862838	|loc per person per month|
+|Average staffing per month	|0.878182761801191	|full time software personnel| 
+| **Cost of the project**	|287831.53054589|BDT|	
+
+	
+#### Semidetached	
+
+|Factors |Results | Measurement unit |
+|---||---||---|
+|	Effort	|3.298132785091	|person per month|
+|	Development time in months	|3.79606689027965	|months|
+|	Labor rate	|15000|BDT|	
+|	Productivity	|261.05680277401	|loc per person per month|
+|	Average staffing per month	|0.868828943329825	|full time software personnel| 
+|	**Cost of the project**	|187798.989978447|BDT|	
+			
+#### Embedded		
+|Factors |Results | Measurement unit |
+|---||---||---|
+|	Effort	|3.04162147204214	|person per month|
+|	Development time in months	|3.5688941024344	|months|
+|	Labor rate	|10000	|BDT|
+			
+|	Productivity	|283.072699188281	|loc person per month|
+|	Average staffing per month	|0.852258818766127	|full time software personnel| 
+			
+|	**Cost of the project**	|108552.24933409|BDT|	
+
+## References
 
 
 ---
@@ -127,7 +196,7 @@ publisher= "Pearson Education"
 |Wed Sep 11 05:05:47 BST 2019 	 |Project repository initialization| 	 
 |Wed Sep 11 05:15:53 BST 2019 	 |Updating supervisor about the project and repository initialization|
 |Wed Sep 11 05:54:57 BST 2019 	 |How it works: Distributed J2EE software development architecture along with N-tier MVC view|
-
+|Fri Sep 13 17:44:54 BST 2019 	 |Project cost, effort, and development time according to COCOMO Intermediate model|
 
 
 > The contents are populated only for supervisor
