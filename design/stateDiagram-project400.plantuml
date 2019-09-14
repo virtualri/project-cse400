@@ -1,0 +1,68 @@
+@startuml component
+
+!define LIGHTBLUE
+!include /home/project52/Documents/style.puml
+
+actor managers
+actor client
+actor administration
+actor management
+
+node landing{
+    interface [PRIVILEGED_ACCESS]
+}
+
+node coreEngine{
+    interface [ROOM_RESERVATION]
+    interface [MANAGEMENT_INSIGHT]
+}
+
+node coreDatabase{
+    database clientDatabase
+    database privileges
+}
+
+client --> landing
+managers --> landing
+administration --> landing
+management --> landing
+
+landing ..> privileges : incoming & outgoing
+privileges ..> landing 
+
+''' room allocation '''
+PRIVILEGED_ACCESS --> [ROOM_RESERVATION] 
+[ROOM_RESERVATION] --> [ALLOCATE_RESOURCES] : to allocate room
+[ALLOCATE_RESOURCES] ..> [PYTHON_MODULE] : system call
+[PYTHON_MODULE] ..> [ALLOCATE_RESOURCES] : predicted outcomes
+
+note left of [PYTHON_MODULE]
+  five outcomes which are 
+  (a) estimate stay, 
+  (b) class of the client, 
+  (c) expenditure nature, 
+  (d) quality of the client, 
+  (e) which type of room is suitable
+end note
+
+[ROOM_RESERVATION] --> [SPONSOR_CLIENT]
+[SPONSOR_CLIENT] --> [GENETIC_ALGORITHM_MODULE] : system call 
+[GENETIC_ALGORITHM_MODULE] ..> [SPONSOR_CLIENT]
+note right of [GENETIC_ALGORITHM_MODULE]
+    most fitted and 
+    suitable manager allocation 
+end note
+
+[SPONSOR_CLIENT] ..> [ROOM_RESERVATION] : assign the manager
+    
+[ROOM_RESERVATION] -right-> clientDatabase : store & retrive data when room is allocated
+clientDatabase ..> [ROOM_RESERVATION]
+
+''' management '''
+PRIVILEGED_ACCESS --> [MANAGEMENT_INSIGHT] : to make strategic decision and to view or modify data
+
+[MANAGEMENT_INSIGHT] -right-> clientDatabase : to view the empty rooms, populated rooms, statistics, economic transactions
+clientDatabase ..> [MANAGEMENT_INSIGHT] : query outcome
+ 
+@enduml
+
