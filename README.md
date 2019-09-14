@@ -73,7 +73,7 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 |Schedule of the project	|500|
 |Designing diagram	|109|    
 |Designing system view	|80|
-|  ***Total loc score in thousand***	|0.861|
+|  Total loc score in thousand	|0.861|
 
 
 ####Effort multiplier						
@@ -89,7 +89,7 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 #### Intermediate model				
 
 |Category	|a<sub>b</sub>	|b<sub>b</sub>	|c<sub>b</sub>	|d<sub>b</sub>	|Effort	|Schedule|
-|---||---||---||---||---||---||---|	
+|---||---||---||---||---||---||---:|	
 |Organic	|3.2	|1.05	|2.5	|0.38	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
 |Semidetached	|3	|1.12	|2.5	|0.35	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup>|
 |Embedded	|2.8	|1.2	|2.5	|0.32	|E= a<sub>b</sub> x LOC<sup>b<sub>b</sub</sup>	|DEV=c<sub>b</sub> x E<sup>d<sub>b</sub</sup> |
@@ -97,40 +97,37 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 #### Organic			
 
 |Factors |Results | Measurement unit |
-|---||---||---|
+|---||---||---:|
 |Effort	|3.55505758341727|	person per month|
-|	Development time in months	|4.04819786729324	|months|
+|Development time in months	|4.04819786729324	|months|
 |Labor rate	|20000	|BDT|
 |Productivity	|242.190169862838	|loc per person per month|
 |Average staffing per month	|0.878182761801191	|full time software personnel| 
-| **Cost of the project**	|287831.53054589|BDT|	
+|Cost of the project	|287831.53054589|BDT|	
 
 	
 #### Semidetached	
 
 |Factors |Results | Measurement unit |
-|---||---||---|
-|	Effort	|3.298132785091	|person per month|
-|	Development time in months	|3.79606689027965	|months|
-|	Labor rate	|15000|BDT|	
-|	Productivity	|261.05680277401	|loc per person per month|
-|	Average staffing per month	|0.868828943329825	|full time software personnel| 
-|	**Cost of the project**	|187798.989978447|BDT|	
+|---||---||---:|
+|Effort	|3.298132785091	|person per month|
+|Development time in months	|3.79606689027965	|months|
+|Labor rate	|15000|BDT|	
+|Productivity	|261.05680277401	|loc per person per month|
+|Average staffing per month	|0.868828943329825	|full time software personnel| 
+|Cost of the project	|187798.989978447|BDT|	
 			
 #### Embedded		
 |Factors |Results | Measurement unit |
-|---||---||---|
-|	Effort	|3.04162147204214	|person per month|
-|	Development time in months	|3.5688941024344	|months|
-|	Labor rate	|10000	|BDT|
-			
-|	Productivity	|283.072699188281	|loc person per month|
-|	Average staffing per month	|0.852258818766127	|full time software personnel| 
-			
-|	**Cost of the project**	|108552.24933409|BDT|	
+|---||---||---:|
+|Effort	|3.04162147204214	|person per month|
+|Development time in months	|3.5688941024344	|months|
+|Labor rate	|10000	|BDT|
+|Productivity	|283.072699188281	|loc person per month|
+|Average staffing per month	|0.852258818766127	|full time software personnel| 			
+|Cost of the project	|108552.24933409|BDT|	
 
 ## References
-
 
 ---
 title= "Fundamentals of Neural Networks: Architectures, Algorithms and Applications",
