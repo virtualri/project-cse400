@@ -71,7 +71,7 @@ Project complexity factor is ***VERY HIGH***
 #### Calculated results
 
 |Title of the program	                             |LOC    | Error or loss | Note | 
-|---|---:|---:|
+|---|---:|---:|:---|
 |findingSponsor.py	                                 |94     | 0.17          | Generation 10, population 50|
 |Feed_forward_Backpropagation-NeuralNetwork.ipynb	 |60     |               |Input layer 6, Output layer 6, Hidden layer 10|
 |NeuralNetworkFeedForwardBackpropagation.py	         |72     |               |Core NN Engine |
