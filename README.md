@@ -66,25 +66,26 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 ### Constructive Cost Model ( COCOMO ) intermediate model
 
 #### Project complexity
-Project complexity factor is ***very high***
+Project complexity factor is ***VERY HIGH***
 
 #### Calculated results
 
-|Title of the program	|LOC| Error or loss | 
+|Title of the program	                             |LOC    | Error or loss | Note | 
 |---|---:|---:|
-|findingSponsor.py	|125| 0.17|
-|Feed_forward_Backpropagation-NeuralNetwork.ipynb	|47| Generation 10, population 50|
-|Schedule of the project	|500||
-|Designing diagram	|109|    |
-|Designing system view	|80||
-|  Total loc score in thousand	|0.861||
+|findingSponsor.py	                                 |94     | 0.17          | Generation 10, population 50|
+|Feed_forward_Backpropagation-NeuralNetwork.ipynb	 |60     |               |Input layer 6, Output layer 6, Hidden layer 10|
+|NeuralNetworkFeedForwardBackpropagation.py	         |72     |               |Core NN Engine |
+|Designing diagram	                                 |109    |               |List of figures |
+|Designing system view	                             |80     |               |Basic system view |
+|Schedule of the project	                         |500    |               |Sample schedule for Agile Methodology|
+|  Total loc score in thousand	                     |	0.915|               || 
 
 
 #### Effort multiplier						
 
-|Cost driver	|very low 	|low	|normal	|high	|very high	|extra high|
+|Cost driver	           |very low 	|low	|normal	|high	|very high	|extra high|
 |---|---|---|---|---|---|---|
-|product complexity (EAF)|	0.7	|0.85|	1	|1.15|	1.3|	1.65|
+|product complexity (EAF)  |0.7	        |0.85   |	1	|1.15   |	1.3     |	1.65|
 
 
 #### Product complexity (EAF) is very high=1.3				
@@ -100,36 +101,36 @@ Project complexity factor is ***very high***
 
 #### Organic			
 
-|Factors |Results | Measurement unit |
+|Factors                        |Results                | Measurement unit |
 |---|---|---:|
-|Effort	|3.55505758341727|	person per month|
-|Development time in months	|4.04819786729324	|months|
-|Labor rate	|20000	|BDT|
-|Productivity	|242.190169862838	|loc per person per month|
-|Average staffing per month	|0.878182761801191	|full time software personnel| 
-|Cost of the project	|287831.53054589|BDT|	
+|Effort	                        |2.18626796145394       |	person per month|
+|Development time in months	    |2.4170187776113        |	months|
+|Labor rate	                    |20000                  | USD\m|			
+|Productivity	                |418.521432931531	    |loc per person per month|
+|Average staffing per month	    |0.904530813622636	    |full time software personnel| 		
+|Cost of the project	        |105685.014314483       |USD|	
 
 	
 #### Semidetached	
 
-|Factors |Results | Measurement unit |
+|Factors                        |Results                | Measurement unit |
 |---|---|---:|
-|Effort	|3.298132785091	|person per month|
-|Development time in months	|3.79606689027965	|months|
-|Labor rate	|15000|BDT|	
-|Productivity	|261.05680277401	|loc per person per month|
-|Average staffing per month	|0.868828943329825	|full time software personnel| 
-|Cost of the project	|187798.989978447|BDT|	
+|Effort	                        |3.78953113318683	    |person per month|
+|Development time in months	    |4.14765372058999	    |months|
+|Labor rate	                    |20000	                |USD|
+|Productivity	                |241.454672845114	    |loc per person per month|
+|Average staffing per month	    |0.913656584775786	    |full time software personnel| 		
+|Cost of the project	        |314353.258077079	    |USD|
 			
 #### Embedded		
-|Factors |Results | Measurement unit |
+|Factors                        |Results                | Measurement unit |
 |---|---|---:|
-|Effort	|3.04162147204214	|person per month|
-|Development time in months	|3.5688941024344	|months|
-|Labor rate	|10000	|BDT|
-|Productivity	|283.072699188281	|loc person per month|
-|Average staffing per month	|0.852258818766127	|full time software personnel| 			
-|Cost of the project	|108552.24933409|BDT|	
+|Effort	                        |3.53066272382387	    |person per month|
+|Development time in months	    |3.88767265623533	    |months|
+|Labor rate	                    |15000	                |USD|		
+|Productivity	                |259.158144397608	    |loc per person per month|
+|Average staffing per month	    |0.908168726130052	    |full time software personnel| 		
+|Cost of the project	        |205890.913946991	    |USD|
 
 ## References
 
