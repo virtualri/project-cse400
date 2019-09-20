@@ -105,7 +105,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |2.18626796145394       |	person per month|
 |Development time in months	    |2.4170187776113        |	months|
-|Labor rate	                    |20000                  | USD\m|			
+|Labor rate	                    |20000                  | USD/m|			
 |Productivity	                |418.521432931531	    |loc per person per month|
 |Average staffing per month	    |0.904530813622636	    |full time software personnel| 		
 |Cost of the project	        |105685.014314483       |USD|	
@@ -117,7 +117,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |3.78953113318683	    |person per month|
 |Development time in months	    |4.14765372058999	    |months|
-|Labor rate	                    |20000	                |USD|
+|Labor rate	                    |20000	                |USD/m|
 |Productivity	                |241.454672845114	    |loc per person per month|
 |Average staffing per month	    |0.913656584775786	    |full time software personnel| 		
 |Cost of the project	        |314353.258077079	    |USD|
@@ -127,7 +127,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |3.53066272382387	    |person per month|
 |Development time in months	    |3.88767265623533	    |months|
-|Labor rate	                    |15000	                |USD|		
+|Labor rate	                    |15000	                |USD/m|		
 |Productivity	                |259.158144397608	    |loc per person per month|
 |Average staffing per month	    |0.908168726130052	    |full time software personnel| 		
 |Cost of the project	        |205890.913946991	    |USD|
