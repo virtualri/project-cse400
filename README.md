@@ -27,11 +27,11 @@
 |3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
 |4          | S.A.M & E.A.S     |7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
 |5          | S.A.M & E.A.S     |15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
-|6          | S.A.M & E.A.S     |22 September 2019  | 28 September 2019 |Documentation completed & First draft submission  | - |
-|7          | S.A.M & E.A.S     |29 September 2019  | 5 October 2019    |Feedback and document update                      | - |
-|8          | S.A.M & E.A.S     |6 October 2019     | 12 October 2019   |Document submission checklists                    | - |
-|9          | S.A.M & E.A.S     |13 October 2019    | **19 October 2019**   | **Submit the thesis**                                 | - |
-|10         | S.A.M & E.A.S     |20 October 2019   |  23 October 2019   |Supervisor's note                                 | - |
+|6          | S.A.M & E.A.S     |22 September 2019  | 25 September 2019 |Documentation completed & First draft submission  | - |
+|7          | S.A.M & E.A.S     |26 September 2019  | 28 September 2019    |Feedback and document update                      | - |
+|8          | S.A.M & E.A.S     |29 September 2019  | 1 October 2019   |Document submission checklists                    | - |
+|9          | S.A.M & E.A.S     |2 October 2019    | **5 October 2019**   | **Submit the thesis**                                 | - |
+|10         | S.A.M & E.A.S     |6 October 2019   |  13 October 2019   |Supervisor's note                                 | - |
 
 > TOTAL DAYS: **189**
 
@@ -124,7 +124,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |2.18626796145394       |	person per month|
 |Development time in months	    |2.4170187776113        |	months|
-|Labor rate	                    |20000                  | USD/m|			
+|Labor rate	                    |20000                  | BDT/m|			
 |Productivity	                |418.521432931531	    |loc per person per month|
 |Average staffing per month	    |0.904530813622636	    |full time software personnel| 		
 |Cost of the project	        |105685.014314483       |USD|	
@@ -136,7 +136,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |3.78953113318683	    |person per month|
 |Development time in months	    |4.14765372058999	    |months|
-|Labor rate	                    |20000	                |USD/m|
+|Labor rate	                    |20000	                |BDT/m|
 |Productivity	                |241.454672845114	    |loc per person per month|
 |Average staffing per month	    |0.913656584775786	    |full time software personnel| 		
 |Cost of the project	        |314353.258077079	    |USD|
@@ -146,7 +146,7 @@ Project complexity factor is ***VERY HIGH***
 |---|---|---:|
 |Effort	                        |3.53066272382387	    |person per month|
 |Development time in months	    |3.88767265623533	    |months|
-|Labor rate	                    |15000	                |USD/m|		
+|Labor rate	                    |15000	                |BDT/m|		
 |Productivity	                |259.158144397608	    |loc per person per month|
 |Average staffing per month	    |0.908168726130052	    |full time software personnel| 		
 |Cost of the project	        |205890.913946991	    |USD|
