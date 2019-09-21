@@ -32,7 +32,11 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 
 ![J2EE Distributed Multitier architecture](/images/distributed-j2eetiers.png)
 
-### Aerial view of the proposed system
+#### How J2EE Works
+![J2EE Structure](/images/j2ee.png)
+
+
+### View of the proposed system
 
 ![UML Diagram of System View](/images/umlDiagram-project400.png)
 
