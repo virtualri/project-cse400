@@ -30,10 +30,10 @@
 |6          | S.A.M & E.A.S     |22 September 2019  | 28 September 2019 |Documentation completed & First draft submission  | - |
 |7          | S.A.M & E.A.S     |29 September 2019  | 5 October 2019    |Feedback and document update                      | - |
 |8          | S.A.M & E.A.S     |6 October 2019     | 12 October 2019   |Document submission checklists                    | - |
-|9          | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Final draft of the document                       | - |
-|10         | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Supervisor's note                                 | - |
+|9          | S.A.M & E.A.S     |13 October 2019    | **19 October 2019**   | **Submit the thesis**                                 | - |
+|10         | S.A.M & E.A.S     |20 October 2019   |  23 October 2019   |Supervisor's note                                 | - |
 
-> TOTAL DAYS: **185**
+> TOTAL DAYS: **189**
 
 
 ## Literacy and understanding under discussion and supervisor
