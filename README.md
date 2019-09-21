@@ -7,7 +7,7 @@
 ## Proposition 1: Arrangment of the resource
 There exists a resource(g(A)) such that the resource is not belong to any other services(X)
 
-### Proposition 2: Validating demand & supply
+## Proposition 2: Validating demand & supply
 There exists a resource(g(A)) such that resource belong to the demand(S); and resource is available to supply(S); and  resource is directly proportional to the demand(D) 
 
 ## Proposition 3: Finding the predicted resource 
