@@ -16,10 +16,9 @@
 ![Agile development model](/images/Agile-DevelopmentModel.png)
 
 
-## Project Schedule
+## Project Status
 
-On-going from Wed Apr 17 2019 while the schedule under development and will publish within **week 38**
-
+**Under Development**
 
 ## Literacy and understanding under discussion and supervisor
 
@@ -30,7 +29,7 @@ On-going from Wed Apr 17 2019 while the schedule under development and will publ
 
 #### Multitier and Java EE
 
-![J2EE Distributed Multitier architecture](/images/distributed-j2eetiers.png)
+![J2EE Distributed Multitier architecture](/images/distributed-j2ee-multitier.png)
 
 #### How J2EE Works
 ![J2EE Structure](/images/j2ee.png)
