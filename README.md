@@ -33,7 +33,7 @@
 |9          | S.A.M & E.A.S     |2 October 2019    | **5 October 2019**   | **Submit the thesis**                                 | - |
 |10         | S.A.M & E.A.S     |6 October 2019   |  13 October 2019   |Supervisor's note                                 | - |
 
-> TOTAL DAYS: **189**
+> TOTAL DAYS: **171**
 
 
 ## Literacy and understanding under discussion and supervisor
