@@ -21,7 +21,7 @@
 ![Agile development model](/images/Agile-DevelopmentModel.png)
 
 |Sprint no  | Supervisor        |Start              |End                |Entitle                                           | Status | 
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 |1          | S.A.M & E.A.S     |17 April 2019      |4 May 2019         |Project initialization and Thesis title searching | Done|
 |2          | S.A.M & E.A.S     |5 May 2019         |5 June 2019        |Literature study & Requirement engineering        | Done|
 |3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
