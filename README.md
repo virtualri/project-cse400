@@ -1,3 +1,8 @@
+# Project Status
+
+**Under Development**
+
+
 # Project Repository 
 
 > CSE-400
@@ -11,14 +16,25 @@
 > Project title may change at the moment of final compile & with the advice of the supervisor
 
 
-## Software development model
+## Agile Software development model
 
 ![Agile development model](/images/Agile-DevelopmentModel.png)
 
+|Sprint no  | Supervisor        |Start              |End                |Entitle                                           | Status | 
+|:---|:---|:---|:---|:---|
+|1          | S.A.M & E.A.S     |17 April 2019      |4 May 2019         |Project initialization and Thesis title searching | Done|
+|2          | S.A.M & E.A.S     |5 May 2019         |5 June 2019        |Literature study & Requirement engineering        | Done|
+|3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
+|4          | S.A.M & E.A.S     |7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
+|5          | S.A.M & E.A.S     |15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
+|6          | S.A.M & E.A.S     |22 September 2019  | 28 September 2019 |Documentation completed & First draft submission  | - |
+|7          | S.A.M & E.A.S     |29 September 2019  | 5 October 2019    |Feedback and document update                      | - |
+|8          | S.A.M & E.A.S     |6 October 2019     | 12 October 2019   |Document submission checklists                    | - |
+|9          | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Final draft of the document                       | - |
+|10         | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Supervisors recommendation                        | - |
 
-## Project Status
+> TOTAL DAYS: **185**
 
-**Under Development**
 
 ## Literacy and understanding under discussion and supervisor
 
