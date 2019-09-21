@@ -2,6 +2,28 @@
 
 **Under Development**
 
+# About the project
+
+## Proposition 1: Arrangment of the resource
+There exists a resource(g(A)) such that the resource is not belong to any other services(X)
+
+### Proposition 2: Validating demand & supply
+There exists a resource(g(A)) such that resource belong to the demand(S); and resource is available to supply(S); and  resource is directly proportional to the demand(D) 
+
+## Proposition 3: Finding the predicted resource 
+There exists a resource(g(A)) such that the resources belong to the resources(g(A)) and belongs to the demand(D) 
+where the predicted(g(P)) outcome of the resources can be shown from **Feedforward Backpropagation Neural Network**
+
+> Using supervised learning and trained dataset
+
+## Proposition 4: Finding sponsor by machine learning algorithm 
+There exists an employee who belongs to the subset of demand and belongs to the predicted outcome (g(P)) 
+where g(P) is greather than and equal to demand(S)
+
+> Using genetic algorithm and programming to find the optimized outcome 
+
+## Proposition 5: Allocate the resource 
+If and only if, Proposition 1 to 4 is true
 
 # Project Repository 
 
