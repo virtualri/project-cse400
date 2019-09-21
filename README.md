@@ -31,7 +31,7 @@
 |7          | S.A.M & E.A.S     |29 September 2019  | 5 October 2019    |Feedback and document update                      | - |
 |8          | S.A.M & E.A.S     |6 October 2019     | 12 October 2019   |Document submission checklists                    | - |
 |9          | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Final draft of the document                       | - |
-|10         | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Supervisors recommendation                        | - |
+|10         | S.A.M & E.A.S     |6 September 2019   | 19 October 2019   |Supervisor's note                                 | - |
 
 > TOTAL DAYS: **185**
 
