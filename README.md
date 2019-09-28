@@ -49,9 +49,9 @@ If and only if, Proposition 1 to 4 is true
 |3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
 |4          | S.A.M & E.A.S     |7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
 |5          | S.A.M & E.A.S     |15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
-|6          | S.A.M & E.A.S     |22 September 2019  | 1 October 2019 |Documentation completed & First draft submission  | - |
-|7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | - |
-|8          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019   |Document submission checklists revised                    | - |
+|6          | S.A.M & E.A.S     |22 September 2019  | 1 October 2019 |Documentation completed & First draft submission  | **ON GOING** |
+|7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | **ON GOING** |
+|8          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019   |Document submission checklists revised                    | **ON GOING** |
 |9          | S.A.M & E.A.S     |4 October 2019    | **5 October 2019**   | **Submit the thesis**                                 | - |
 |10         | S.A.M & E.A.S     |6 October 2019   |  10 October 2019   |Supervisor's note and End of thesis life cycle (EOL)                                 | - |
 
