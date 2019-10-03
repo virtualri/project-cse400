@@ -5,20 +5,39 @@
 # About the project
 
 ## Proposition 1: Arrangment of the resource
-There exists a resource(g(A)) such that the resource is not belong to any other services(X)
+There exists some resources(g(R)) such that the resources are not belong to any other existing services(g(X))
 
-## Proposition 2: Validating demand & supply
-There exists a resource(g(A)) such that resource belong to the demand(S); and resource is available to supply(S); and  resource is directly proportional to the demand(D) 
+> where g(R) is the number of rooms and employee
+> and g(X) is the allocated employee and rooms
+
+## Proposition 2: Clustering demand & supply
+There exists some resources(g(R) and g(X)) such that resources belong to the demand(g(D)); and resources are available to supply(g(S)) from the g(X); and  g(S) are directly proportional to the demand(g(D)) 
+
+> g(D) is the client's requirement 
+> g(S) is the available resources of the organization
+> g(X) is the set of available services 
+
+> Clustering the supply of existing resources ( humanware, services, and vacant rooms ) according to the client's demand
 
 ## Proposition 3: Finding the predicted resource 
-There exists a resource(g(A)) such that the resources belong to the resources(g(A)) and belongs to the demand(D) 
-where the predicted(g(P)) outcome of the resources can be shown from **Feedforward Backpropagation Neural Network**
+There exists some resources(g(E)), g(R)) such that the resources belong to the resources(g(A)) and g(E) & g(R) belongs to the demand(g(A)) 
+
+
+> where the predicted(g(E)) is set of employee
+> and g(A) is the predicted outcome
+
+> outcome of the resources can be shown from **Feedforward Backpropagation Neural Network**
 
 > Using supervised learning and trained dataset
 
 ## Proposition 4: Finding sponsor by machine learning algorithm 
-There exists an employee who belongs to the subset of demand and belongs to the predicted outcome (g(P)) 
-where g(P) is greather than and equal to demand(S)
+There exists set of employees g(E) who belongs to the subset of g(GA) and belongs to the predicted outcome (g(A)) 
+> where g(GA) is the employee who is responsible to deal the g(D) of the client during his stay at the premised 
+
+> and g(GA) is equavalent of demand(g(A)) 
+> and g(A) is equavalent of g(D)
+> and g(D) is equavalent of g(S)
+> and g(R) <= g(X) <= g(D) <= g(S) <= g(A) <= g(GA)
 
 > Using genetic algorithm and programming to find the optimized outcome 
 
@@ -33,7 +52,7 @@ If and only if, Proposition 1 to 4 is true
 
 ## **Project Title**
 
-**Sponsor based resource allocation using artificial feed-forward based neural network**
+**Resource allocation using artificial feed-forward-backpropagation neural network with off-spring humanware as sponsor**
 
 > Project title may change at the moment of final compile & with the advice of the supervisor
 
@@ -49,11 +68,11 @@ If and only if, Proposition 1 to 4 is true
 |3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
 |4          | S.A.M & E.A.S     |7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
 |5          | S.A.M & E.A.S     |15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
-|6          | S.A.M & E.A.S     |22 September 2019  | 1 October 2019 |Documentation completed & First draft submission  | **ON GOING** |
-|7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | **ON GOING** |
-|8          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019   |Document submission checklists revised                    | **ON GOING** |
-|9          | S.A.M & E.A.S     |4 October 2019    | **5 October 2019**   | **Submit the thesis**                                 | - |
-|10         | S.A.M & E.A.S     |6 October 2019   |  10 October 2019   |Supervisor's note and End of thesis life cycle (EOL)                                 | - |
+|6          | S.A.M & E.A.S     |22 September 2019  | 5 October 2019 |Documentation 50% completed     | **ON GOING** |
+|7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | Done |
+|8          | S.A.M & E.A.S     |5 October 2019  | 7 October 2019   |Document submission checklists revised                    | **ON GOING** |
+|9          | S.A.M & E.A.S     |8 October 2019    | **8 October 2019**   | **Submit the thesis**                                 | - |
+|10         | S.A.M & E.A.S     |9 October 2019   |  13 October 2019   |Supervisor's note and End of thesis life cycle (EOL)                                 | - |
 
 > TOTAL DAYS: **190**
 
