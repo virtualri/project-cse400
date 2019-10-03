@@ -1,6 +1,7 @@
 # Project Status
 
-**Under Development**
+**App Developed**
+**On going: documentation**
 
 # About the project
 
