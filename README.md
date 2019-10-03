@@ -78,9 +78,9 @@ If and only if, Proposition 1 to 4 is true
 |7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | Done |
 |8          | S.A.M & E.A.S     |5 October 2019  | 7 October 2019   |Document submission checklists revised                    | **ON GOING** |
 |9          | S.A.M & E.A.S     |8 October 2019    | **8 October 2019**   | **Submit the thesis**                                 | - |
-|10         | S.A.M & E.A.S     |9 October 2019   |  13 October 2019   |Supervisor's note and End of thesis life cycle (EOL)                                 | - |
+|10         | S.A.M & E.A.S     |9 October 2019   |  19 October 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 | - |
 
-> TOTAL DAYS: **190**
+> TOTAL DAYS: **185**
 
 
 ## Literacy and understanding under discussion and supervisor
