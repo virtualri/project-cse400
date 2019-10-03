@@ -8,13 +8,16 @@
 There exists some resources(g(R)) such that the resources are not belong to any other existing services(g(X))
 
 > where g(R) is the number of rooms and employee
+
 > and g(X) is the allocated employee and rooms
 
 ## Proposition 2: Clustering demand & supply
 There exists some resources(g(R) and g(X)) such that resources belong to the demand(g(D)); and resources are available to supply(g(S)) from the g(X); and  g(S) are directly proportional to the demand(g(D)) 
 
 > g(D) is the client's requirement 
+
 > g(S) is the available resources of the organization
+
 > g(X) is the set of available services 
 
 > Clustering the supply of existing resources ( humanware, services, and vacant rooms ) according to the client's demand
@@ -35,8 +38,11 @@ There exists set of employees g(E) who belongs to the subset of g(GA) and belong
 > where g(GA) is the employee who is responsible to deal the g(D) of the client during his stay at the premised 
 
 > and g(GA) is equavalent of demand(g(A)) 
+
 > and g(A) is equavalent of g(D)
+
 > and g(D) is equavalent of g(S)
+
 > and g(R) <= g(X) <= g(D) <= g(S) <= g(A) <= g(GA)
 
 > Using genetic algorithm and programming to find the optimized outcome 
