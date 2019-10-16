@@ -82,7 +82,7 @@ If and only if, Proposition 1 to 4 is true
 |9          | S.A.M |23 October 2019    | **26 October 2019**   | **Submit the thesis**                                 | **ON GOING** |
 |10         | S.A.M |27 October 2019   |  5 November 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 | **ON GOING** |
 
-> TOTAL DAYS: **185**
+> TOTAL DAYS: **202**
 
 
 ## Literacy and understanding under discussion and supervisor
