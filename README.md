@@ -73,14 +73,14 @@ If and only if, Proposition 1 to 4 is true
 |:---|:---|:---|:---|:---|:---|
 |1          | S.A.M & E.A.S     |17 April 2019      |4 May 2019         |Project initialization and Thesis title searching | Done|
 |2          | S.A.M & E.A.S     |5 May 2019         |5 June 2019        |Literature study & Requirement engineering        | Done|
-|3          | S.A.M & E.A.S     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
-|4          | S.A.M & E.A.S     |7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
-|5          | S.A.M & E.A.S     |15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
-|6          | S.A.M & E.A.S     |22 September 2019  | 19 October 2019 |Documentation 65% completed     | **ON GOING** |
-|7          | S.A.M & E.A.S     |2 October 2019  | 3 October 2019    |Official payment done                      | Done |
-|8          | S.A.M & E.A.S     |20 October 2019  | 22 October 2019   |Document submission checklists & revision, correcting grammar, proofreading, copy editing                    | **ON GOING** |
-|9          | S.A.M & E.A.S     |23 October 2019    | **26 October 2019**   | **Submit the thesis**                                 | **ON GOING** |
-|10         | S.A.M & E.A.S     |27 October 2019   |  5 November 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 | **ON GOING** |
+|3          | S.A.M     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
+|4          | S.A.M|7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
+|5          | S.A.M|15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
+|6          | S.A.M|22 September 2019  | 19 October 2019 |Documentation 65% completed     | **ON GOING** |
+|7          | S.A.M |2 October 2019  | 3 October 2019    |Official payment done                      | Done |
+|8          | S.A.M |20 October 2019  | 22 October 2019   |Document submission checklists & revision, correcting grammar, proofreading, copy editing                    | **ON GOING** |
+|9          | S.A.M |23 October 2019    | **26 October 2019**   | **Submit the thesis**                                 | **ON GOING** |
+|10         | S.A.M |27 October 2019   |  5 November 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 | **ON GOING** |
 
 > TOTAL DAYS: **185**
 
