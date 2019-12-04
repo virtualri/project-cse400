@@ -60,7 +60,7 @@ If and only if, Proposition 1 to 4 is true
 
 ## **Project Title**
 
-**Resource allocation using artificial feed-forward-backpropagation neural network with off-spring humanware as sponsor**
+**Allocating resource \& to find the off-spring humanware as sponsor based on the computational consequence of artificial feed-forward-backpropagation neural network and genetic algorithm**
 
 > Project title may change at the moment of final compile & with the advice of the supervisor
 
@@ -76,11 +76,11 @@ If and only if, Proposition 1 to 4 is true
 |3          | S.A.M     |6 June 2019        | 6 August 2019     |Machine learning apps & J2EE Development          | Done|
 |4          | S.A.M|7 August 2019      | 14 September 2019 |Machine learning apps                             | Approved with release|
 |5          | S.A.M|15 September 2019  | 21 September 2019 |J2EE development and Thesis Documentation starts  | Approved with release|
-|6          | S.A.M|22 September 2019  | 2 November 2019 | **Documentation 75% completed**     | **ON GOING** |
+|6          | S.A.M|22 September 2019  | 2 November 2019 | **Documentation Completed     | Complete |
 |7          | S.A.M |2 October 2019  | 3 October 2019    |Official payment done                      | Done |
-|8          | S.A.M |20 October 2019  | 22 October 2019   |Document submission checklists & revision, correcting grammar, proofreading, copy editing                    | **ON GOING** |
-|9          | S.A.M |23 October 2019    | **30 November 2019**   | **Submit the thesis**                                 | **ON GOING** |
-|10         | S.A.M |1 December 2019   |  7 December 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 | **ON GOING** |
+|8          | S.A.M |20 October 2019  | 22 October 2019   |Document submission checklists & revision, correcting grammar, proofreading, copy editing                    | Complet |
+|9          | S.A.M |23 October 2019    | **4 December 2019**   | **Submit the thesis**                                 | **Completed** |
+|10         | S.A.M |5 December 2019   |  7 December 2019   |Supervisor's advice, presentation and End of thesis Life cycle (EOL)                                 |Completed|
 
 > TOTAL DAYS: **234**
 
